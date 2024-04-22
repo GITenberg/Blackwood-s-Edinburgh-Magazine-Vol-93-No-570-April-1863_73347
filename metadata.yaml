@@ -1,5 +1,8 @@
 _repo: Blackwood-s-Edinburgh-Magazine-Vol-93-No-570-April-1863_73347
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73347-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73347#Blackwood-s-Edinburgh-Magazine-Vol-93-No-570-April-1863
 gutenberg_issued: '2024-04-07'
 gutenberg_type: Text
 identifiers:
